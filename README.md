@@ -1,8 +1,4 @@
 # CovidProject
 
 Here is a link to the data that is being used for this project https://ourworldindata.org/covid-deaths
-
-I have split the data into two separate excel files, one being Covid Deaths and the other as Covid Vaccinations.  This was done to show joins in my queries.
-
-I am using Tableau Public to show the data from the excel sheets, but as I have Tableau Public I am unable to display my workbooks, so I will instead explain 
-my process of using Tableau in a file posted on my respository along with the queries that were used.
+Then this is the link to my Tableau Public Project https://public.tableau.com/profile/jeff4315#!/vizhome/CovidDashboard_16213647753720/Dashboard1?publish=yes
